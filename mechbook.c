@@ -10,11 +10,13 @@ void title();
 int main()
 {
     title();
+    printf("---------------SUVAT MODULE---------------");
+    _2d_motion();
     return 0;
 }
 
 void title()
 {
     printf("\n\n------------------------>     \033[1mTHE Mech'BOOK\033[0m     <------------------------\n");
-    printf("---------------] A handy tool for mechanical engineers [-----------------\n");
+    printf("---------------] A handy tool for mechanical engineers [-----------------\n\n\n\n");
 }
