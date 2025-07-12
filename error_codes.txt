@@ -1,0 +1,3 @@
+ERROR CODE 105 --> A number whose square was to be obtained is a negative.
+ERROR CODE 106 --> A number which is a denominator was found to be zero.
+ERROR CODE 107 --> No real solution.
